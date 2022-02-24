@@ -5,11 +5,13 @@ The travel industry has witnessed exponential growth over the past few decades. 
 
 ## Results: Ridesharing data
 ### Total Rides
+The total rides image shoes a break down of the total rides that are taken in each city type. We can see that the number of rides is lower for rural areas than it is in more urban cities. This makes sense being that the populations are going to be smaller in rural cities. In suburban areas there is not much of a need for rideshare as these citizens more than likely have vehicles and do not have to commute as often.
 
 ![](https://github.com/lightbright832/PyBer_Analysis/blob/main/Total%20rides%20by%20city%20type%20.png)
 
 
 ### Total Drivers
+The total number of drivers coincides with the population sizes of these cities. If there are not as many people there is not as much of a need to have drivers available. In larger cities there is more of a demand for drivers.
 
 ![](https://github.com/lightbright832/PyBer_Analysis/blob/main/Total%20drivers%20by%20city%20type.png)
 
